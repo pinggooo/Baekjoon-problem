@@ -19,3 +19,9 @@ https://www.acmicpc.net/help/rte/NumberFormat
 StringTokenizer
 https://docs.oracle.com/javase/7/docs/api/java/util/StringTokenizer.html
 ```
+
+## 10250번
+```
+처음에는 일반적인 로직을 메인 함수에 넣었지만,
+OOP 개념을 적용시키니 속도가 더 빨라졌다.
+```
